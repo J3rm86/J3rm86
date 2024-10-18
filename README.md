@@ -15,10 +15,11 @@
 ## About Me
 
 Hi, I'm **Jeremiah!** 👨‍💻  
-I’m a passionate software engineer who loves building and creating software that solves real-world problems. Whether it’s crafting elegant backends or designing engaging frontends, I thrive on developing impactful software. 
+I enjoy tinkering with software and learning new tech.
 
 💼 **What I'm Working On**  
-📚 Using **Dart** and **Flutter** to develop a mobile app for my mobile engineering class.  
+📚 Using **Dart** and **Flutter** to develop a mobile app for my mobile engineering class. 
+ 
 🎓 Graduating with my **MS in Software Engineering** in **December 2024**.
 
 ---
