@@ -4,10 +4,11 @@
 **J3rm86/J3rm86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/path/to/your/image.png">
-  <source media="(prefers-color-scheme: light)" srcset="/path/to/your/image.png">
-  <img alt="Futuristic circuit board design" src="![Circuit Board](https://github.com/J3rm86/J3rm86/raw/main/path/to/circuitboard.webp)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/J3rm86/J3rm86/raw/main/circuitboard.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/J3rm86/J3rm86/raw/main/circuitboard.webp">
+  <img alt="Futuristic circuit board design" src="https://github.com/J3rm86/J3rm86/raw/main/circuitboard.webp">
 </picture>
 
 
