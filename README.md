@@ -7,7 +7,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/path/to/your/image.png">
   <source media="(prefers-color-scheme: light)" srcset="/path/to/your/image.png">
-  <img alt="Futuristic circuit board design" src="/path/to/your/image.png">
+  <img alt="Futuristic circuit board design" src="![Circuit Board](https://github.com/J3rm86/J3rm86/raw/main/path/to/circuitboard.webp)">
 </picture>
 
 
