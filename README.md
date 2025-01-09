@@ -18,9 +18,7 @@ Hi, I'm **Jeremiah!** 👨‍💻
 I enjoy tinkering with software and learning new tech.
 
 💼 **What I'm Working On**  
-📚 Using **Dart** and **Flutter** to develop a mobile app for my mobile engineering class. 
- 
-🎓 Graduating with my **MS in Software Engineering** in **December 2024**.
+📚 Creating a mobile app for Remote Workers using **Dart** and **Flutter**. 
 
 ---
 
